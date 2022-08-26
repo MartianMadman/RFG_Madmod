@@ -87,9 +87,6 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Fixed npcs firing all gauss rifle rounds at once.
 -Increased cost of upgrades slightly more.
 
-\v0.9b info/
-Getting ready for finished release if not already finished.
-
 \Changelog v0.9b/
 -Increase distance at which EDF will spot the player with a threatening weapon. Will become hostile when player is seen carrying them for long enough.
 -Increase amount of EDF control in Eos by 410. This will be the last time a change like this is needed. Only takes effect with a new game.
