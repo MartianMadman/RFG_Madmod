@@ -99,7 +99,7 @@ Getting ready for finished release if not already finished.
 -Reduce size of blood decals. They are still fairly large with this change.
 -Tweaks to rfg_stress_controls.xtbl again.
 
-\Changelog v0.91b/
+\Changelog v0.9.1/
 -Add salvage, proxy mines, and remote charges to world objects that will never auto despawn.
 -Prevent guerrilla squads from spawning with sledgehammer in early stages of the game.
 -Increase speed of EDF flyers and remove body tilting to improve handling for ai.
