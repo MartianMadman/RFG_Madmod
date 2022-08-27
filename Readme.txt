@@ -103,6 +103,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Reduce frequency at which player ragdolls when standing on moving vehicles.
 -Better collision physics for salvage. Can now stack on top each other.
 -Restore original ai max firing distances to fix potential ai bugs.
+-Tweak rfg_stress_controls.xtbl to remove stress test delays.
 -Restore original ai burst sizes to fix potential ai bugs.
 -Increased guerrilla reinforcements spawn density.
 -Removed guerrilla reinforcements spawn delay.
