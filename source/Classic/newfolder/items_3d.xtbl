@@ -2960,7 +2960,6 @@
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
 				<Flag>casts_shadows</Flag>
@@ -3878,7 +3877,6 @@
 			<MaterialEffect>salvage_sheen</MaterialEffect>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
@@ -5852,7 +5850,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
@@ -5873,7 +5870,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
@@ -5894,7 +5890,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
@@ -5915,7 +5910,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
@@ -5936,7 +5930,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
@@ -5957,7 +5950,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
@@ -5978,7 +5970,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
@@ -5999,7 +5990,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<_Editor>
