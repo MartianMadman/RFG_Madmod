@@ -97,8 +97,8 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Tweaks to rfg_stress_controls.xtbl again.
 
 \Changelog v0.9.1/
--Add salvage, proxy mines, and remote charges to world objects that will never auto despawn.
 -Prevent guerrilla squads from spawning with sledgehammer in early stages of the game.
+-Add proxy mines and remote charges to world objects that should never auto despawn.
 -Increase speed of EDF flyers and remove body tilting to improve handling for ai.
 -Reduce frequency at which player ragdolls when standing on moving vehicles.
 -Better collision physics for salvage. Can now stack on top each other.
