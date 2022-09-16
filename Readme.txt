@@ -108,6 +108,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Increased guerrilla reinforcements spawn density.
 -Removed guerrilla reinforcements spawn delay.
 -Increase cost of upgrades a little bit more.
+-Slightly increase player health regen rate.
 -Restore player sequential damage factor.
 -Make ammo boxes invulnerable.
 -Optimize lod_properties.xtbl.
