@@ -68,10 +68,10 @@
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_REGEN_RATE</Name>
-				<Easy>1.0</Easy>
-				<Medium>0.75</Medium>
-				<Hard>0.5</Hard>
-				<Insane>0.25</Insane>
+				<Easy>1.25</Easy>
+				<Medium>1.0</Medium>
+				<Hard>0.75</Hard>
+				<Insane>0.5</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_PLAYER_AMMO_PICKUP</Name>
