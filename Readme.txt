@@ -110,6 +110,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Increase cost of upgrades a little bit more.
 -Slightly increase player health regen rate.
 -Restore player sequential damage factor.
+-Improve more explosion physics.
 -Make ammo boxes invulnerable.
 -Optimize lod_properties.xtbl.
 -Adjust game difficulty.
