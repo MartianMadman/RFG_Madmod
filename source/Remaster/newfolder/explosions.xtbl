@@ -168,6 +168,7 @@
 		<KnockdownRadius>3.5</KnockdownRadius>
 		<FlinchRadius>4.5</FlinchRadius>
 		<player_mult>0.8</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>250</human_damage_min>
@@ -201,7 +202,7 @@
 		<CrumbleRadius>6.0</CrumbleRadius>
 		<KnockdownRadius>9</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>0</Delay>
 		<player_mult>0.4</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -234,7 +235,7 @@
 		<CrumbleRadius>6.0</CrumbleRadius>
 		<KnockdownRadius>10</KnockdownRadius>
 		<FlinchRadius>16</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.4</player_mult>
 		<MaxSalvagePieces>4</MaxSalvagePieces>
 		<SalvageProbability>1</SalvageProbability>
@@ -267,7 +268,7 @@
 		<CrumbleRadius>6.0</CrumbleRadius>
 		<KnockdownRadius>11</KnockdownRadius>
 		<FlinchRadius>17</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.4</player_mult>
 		<MaxSalvagePieces>8</MaxSalvagePieces>
 		<SalvageProbability>1</SalvageProbability>
@@ -300,7 +301,7 @@
 		<CrumbleRadius>8.0</CrumbleRadius>
 		<KnockdownRadius>8</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>200</Delay>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -333,7 +334,7 @@
 		<CrumbleRadius>8</CrumbleRadius>
 		<KnockdownRadius>12</KnockdownRadius>
 		<FlinchRadius>24</FlinchRadius>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_mult>1.0</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -362,7 +363,7 @@
 		<CrumbleRadius>6</CrumbleRadius>
 		<KnockdownRadius>9</KnockdownRadius>
 		<FlinchRadius>18</FlinchRadius>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_mult>1.0</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -392,6 +393,7 @@
 		<KnockdownRadius>6</KnockdownRadius>
 		<FlinchRadius>12</FlinchRadius>
 		<player_mult>1.0</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>-1</human_damage_min>
@@ -420,6 +422,7 @@
 		<KnockdownRadius>5</KnockdownRadius>
 		<FlinchRadius>5</FlinchRadius>
 		<player_mult>1.0</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>-1</human_damage_min>
@@ -448,6 +451,7 @@
 		<KnockdownRadius>4</KnockdownRadius>
 		<FlinchRadius>8</FlinchRadius>
 		<player_mult>1.0</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>-1</human_damage_min>
@@ -478,7 +482,7 @@
 			</_Editor>
 		<KnockdownRadius>17</KnockdownRadius>
 		<FlinchRadius>30</FlinchRadius>
-		<Duration>400</Duration>
+		<Duration>1</Duration>
 		<Delay>500</Delay>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>15</MaxSalvagePieces>
@@ -513,6 +517,7 @@
 		<KnockdownRadius>9.5</KnockdownRadius>
 		<FlinchRadius>11.5</FlinchRadius>
 		<player_mult>0.8</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>650</human_damage_min>
@@ -585,7 +590,7 @@
 		<CrumbleRadius>8</CrumbleRadius>
 		<KnockdownRadius>9</KnockdownRadius>
 		<FlinchRadius>14</FlinchRadius>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -617,7 +622,7 @@
 		<CrumbleRadius>3.5</CrumbleRadius>
 		<KnockdownRadius>6</KnockdownRadius>
 		<FlinchRadius>11</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>2</MaxSalvagePieces>
 		<SalvageProbability>1</SalvageProbability>
@@ -651,7 +656,7 @@
 		<CrumbleRadius>6</CrumbleRadius>
 		<KnockdownRadius>8.0</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>350</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>2</MaxSalvagePieces>
 		<SalvageProbability>1</SalvageProbability>
@@ -684,7 +689,7 @@
 		<CrumbleRadius>6</CrumbleRadius>
 		<KnockdownRadius>10</KnockdownRadius>
 		<FlinchRadius>20</FlinchRadius>
-		<Duration>350</Duration>
+		<Duration>1</Duration>
 		<Delay>100</Delay>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -717,7 +722,7 @@
 		<CrumbleRadius>8.0</CrumbleRadius>
 		<KnockdownRadius>8</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>50</Delay>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -756,7 +761,7 @@
 		<CrumbleRadius>8.0</CrumbleRadius>
 		<KnockdownRadius>8</KnockdownRadius>
 		<FlinchRadius>75</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>50</Delay>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -790,7 +795,7 @@
 			</_Editor>
 		<KnockdownRadius>12</KnockdownRadius>
 		<FlinchRadius>30</FlinchRadius>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.7</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -822,7 +827,7 @@
 		<CrumbleRadius>8.0</CrumbleRadius>
 		<KnockdownRadius>8</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>50</Delay>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -855,7 +860,7 @@
 		<CrumbleRadius>18</CrumbleRadius>
 		<KnockdownRadius>15</KnockdownRadius>
 		<FlinchRadius>25</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>200</Delay>
 		<player_mult>0.8</player_mult>
 		<SalvageMaterial>metal</SalvageMaterial>
@@ -972,7 +977,7 @@
 		<Human_Damage_Max>2500</Human_Damage_Max>
 		<Structural_Damage>30000</Structural_Damage>
 		<Unique_ID>29</Unique_ID>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_veh_mult>0.05</player_veh_mult>
 		<Flags>
 			<Flag>destroy if not streamed</Flag>
@@ -1001,7 +1006,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>25000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_propane_tank_lg_a</Element>
 			</Effects>
@@ -1034,7 +1039,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>25000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_tank_chem_a</Element>
 			<Element>dth_tank_chem_frags_a</Element>
@@ -1068,7 +1073,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>20000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_electric_lg_a</Element>
 			</Effects>
@@ -1101,7 +1106,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>25000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_tank_chem_a</Element>
 			</Effects>
@@ -1139,6 +1144,7 @@
 		<KnockdownRadius>7.5</KnockdownRadius>
 		<FlinchRadius>12</FlinchRadius>
 		<player_mult>0.5</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>200</human_damage_min>
@@ -1233,7 +1239,7 @@
 		<human_damage_min>500</human_damage_min>
 		<Human_Damage_Max>1500</Human_Damage_Max>
 		<Structural_Damage>100000</Structural_Damage>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<Delay>0</Delay>
 		<Unique_ID>31</Unique_ID>
 		<player_veh_mult>0.2</player_veh_mult>
@@ -1266,7 +1272,7 @@
 			</_Editor>
 		<KnockdownRadius>15</KnockdownRadius>
 		<FlinchRadius>30</FlinchRadius>
-		<Duration>400</Duration>
+		<Duration>1</Duration>
 		<Delay>700</Delay>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -1300,6 +1306,7 @@
 		<KnockdownRadius>6</KnockdownRadius>
 		<FlinchRadius>10</FlinchRadius>
 		<player_mult>1.0</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>750</human_damage_min>
@@ -1325,7 +1332,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>25000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_tank_fuel_md_a</Element>
 			</Effects>
@@ -1358,7 +1365,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>25000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_generator_a</Element>
 			</Effects>
@@ -1395,7 +1402,7 @@
 		<CrumbleRadius>6</CrumbleRadius>
 		<KnockdownRadius>9</KnockdownRadius>
 		<FlinchRadius>18</FlinchRadius>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -1423,7 +1430,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>25000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_gas_pump_a</Element>
 			</Effects>
@@ -1461,7 +1468,7 @@
 		<CrumbleRadius>8.0</CrumbleRadius>
 		<KnockdownRadius>8</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>200</Delay>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -1494,7 +1501,7 @@
 		<CrumbleRadius>8.0</CrumbleRadius>
 		<KnockdownRadius>8</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>50</Delay>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -1558,7 +1565,7 @@
 		<CrumbleRadius>12</CrumbleRadius>
 		<KnockdownRadius>16</KnockdownRadius>
 		<FlinchRadius>24</FlinchRadius>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -1592,6 +1599,7 @@
 		<KnockdownRadius>8</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
 		<player_mult>0.35</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>350</human_damage_min>
@@ -1629,6 +1637,7 @@
 		<KnockdownRadius>6</KnockdownRadius>
 		<FlinchRadius>13</FlinchRadius>
 		<player_mult>0.35</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>300</human_damage_min>
@@ -1665,7 +1674,7 @@
 		<CrumbleRadius>4.5</CrumbleRadius>
 		<KnockdownRadius>7</KnockdownRadius>
 		<FlinchRadius>11</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.3</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -1704,6 +1713,7 @@
 		<KnockdownRadius>2.5</KnockdownRadius>
 		<FlinchRadius>3.5</FlinchRadius>
 		<player_mult>0.4</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>400</human_damage_min>
@@ -1773,6 +1783,7 @@
 		<KnockdownRadius>8.5</KnockdownRadius>
 		<FlinchRadius>12</FlinchRadius>
 		<player_mult>0.8</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>500</human_damage_min>
@@ -1850,7 +1861,7 @@
 		<camera_shake_type>explosion_very_large</camera_shake_type>
 		<camera_shake_multiplier>1.0</camera_shake_multiplier>
 		<camera_shake_falloff>95.0</camera_shake_falloff>
-		<Duration>300</Duration>
+		<Duration>1</Duration>
 		<player_veh_mult>0.6</player_veh_mult>
 		<Material_Effects></Material_Effects>
 		<player_vehicle_impulse_mult>1.0</player_vehicle_impulse_mult>
@@ -1909,7 +1920,7 @@
 		<CrumbleRadius>8</CrumbleRadius>
 		<KnockdownRadius>9</KnockdownRadius>
 		<FlinchRadius>18</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>0</Delay>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -1942,7 +1953,7 @@
 		<CrumbleRadius>8</CrumbleRadius>
 		<KnockdownRadius>9</KnockdownRadius>
 		<FlinchRadius>18</FlinchRadius>
-		<Duration>200</Duration>
+		<Duration>1</Duration>
 		<Delay>0</Delay>
 		<player_mult>0.5</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -2046,6 +2057,7 @@
 		<KnockdownRadius>5.5</KnockdownRadius>
 		<FlinchRadius>7.0</FlinchRadius>
 		<player_mult>0.5</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>1000</human_damage_min>
@@ -2086,6 +2098,7 @@
 		<KnockdownRadius>6</KnockdownRadius>
 		<FlinchRadius>10</FlinchRadius>
 		<player_mult>0.0</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>-1</human_damage_min>
@@ -2129,7 +2142,7 @@
 		<Human_Damage_Max>1600</Human_Damage_Max>
 		<Structural_Damage>19000</Structural_Damage>
 		<Unique_ID>65</Unique_ID>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_veh_mult>0.2</player_veh_mult>
 		<Material_Effects>
 			<Entry>
@@ -2159,6 +2172,7 @@
 		<KnockdownRadius>6</KnockdownRadius>
 		<FlinchRadius>12</FlinchRadius>
 		<player_mult>1.0</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>-1</human_damage_min>
@@ -2184,7 +2198,7 @@
 		<CrumbleRadius>6</CrumbleRadius>
 		<KnockdownRadius>9</KnockdownRadius>
 		<FlinchRadius>18</FlinchRadius>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_mult>1.0</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -2214,6 +2228,7 @@
 		<KnockdownRadius>3.5</KnockdownRadius>
 		<FlinchRadius>4.5</FlinchRadius>
 		<player_mult>0.3</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>800</human_damage_min>
@@ -2242,7 +2257,7 @@
 		<vehicle_damage_min>250</vehicle_damage_min>
 		<player_mult>0.8</player_mult>
 		<Impulse>25000</Impulse>
-		<Duration>250</Duration>
+		<Duration>1</Duration>
 		<Effects>
 			<Element>dth_tank_chem_a</Element>
 			<Element>dth_tank_chem_frags_a</Element>
@@ -2281,7 +2296,7 @@
 		<CrumbleRadius>3.5</CrumbleRadius>
 		<KnockdownRadius>7</KnockdownRadius>
 		<FlinchRadius>15</FlinchRadius>
-		<Duration>500</Duration>
+		<Duration>1</Duration>
 		<player_mult>0.8</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
@@ -2315,6 +2330,7 @@
 		<KnockdownRadius>6.0</KnockdownRadius>
 		<FlinchRadius>8.5</FlinchRadius>
 		<player_mult>0.5</player_mult>
+		<Duration>1</Duration>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>210</human_damage_min>
