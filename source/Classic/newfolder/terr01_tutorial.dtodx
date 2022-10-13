@@ -570,11 +570,11 @@
 		</key>
 		<key>
 			<time>43</time>
-			<value>0.078187 0.068478 0.141263 3.607143</value>
+			<value>0.078187 0.068478 0.141263 0.300000</value>
 		</key>
 		<key>
 			<time>45</time>
-			<value>0.076185 0.066626 0.234551 4.210000</value>
+			<value>0.076185 0.066626 0.234551 0.300000</value>
 		</key>
 	</ambient_color>
 	<back_ambient_color>
