@@ -518,13 +518,61 @@
 	<eye_adaption_base>
 		<key>
 			<time>4</time>
-			<value>1.000000</value>
+			<value>0.000000</value>
+		</key>
+		<key>
+			<time>10</time>
+			<value>0.000000</value>
+		</key>
+		<key>
+			<time>12</time>
+			<value>0.200000</value>
+		</key>
+		<key>
+			<time>36</time>
+			<value>0.200000</value>
+		</key>
+		<key>
+			<time>41</time>
+			<value>0.200000</value>
+		</key>
+		<key>
+			<time>42</time>
+			<value>0.200000</value>
+		</key>
+		<key>
+			<time>43</time>
+			<value>0.000000</value>
 		</key>
 	</eye_adaption_base>
 	<eye_adaption_amount>
 		<key>
 			<time>4</time>
-			<value>0.000000</value>
+			<value>0.700000</value>
+		</key>
+		<key>
+			<time>10</time>
+			<value>0.700000</value>
+		</key>
+		<key>
+			<time>12</time>
+			<value>0.500000</value>
+		</key>
+		<key>
+			<time>36</time>
+			<value>0.500000</value>
+		</key>
+		<key>
+			<time>41</time>
+			<value>0.500000</value>
+		</key>
+		<key>
+			<time>42</time>
+			<value>0.500000</value>
+		</key>
+		<key>
+			<time>43</time>
+			<value>0.700000</value>
 		</key>
 	</eye_adaption_amount>
 	<eye_fade_min>
