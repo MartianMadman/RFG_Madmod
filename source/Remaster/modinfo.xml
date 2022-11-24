@@ -129,6 +129,7 @@
 	<Replace File="data\misc.vpp\vehicle_defaults.xtbl" NewFile="newfolder\vehicle_defaults.xtbl" />
 	<Replace File="data\misc.vpp\spawn_parameters.xtbl" NewFile="newfolder\spawn_parameters.xtbl" />
 	<Replace File="data\misc.vpp\guerrilla_reinforcement.xtbl" NewFile="newfolder\guerrilla_reinforcement.xtbl" />
+	<Replace File="data\misc.vpp\camera.xtbl" NewFile="newfolder\camera.xtbl" />
     <Edit File="data\misc.vpp\character.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
 	    <Character>
 	    	<Name>rfg_PC</Name>
