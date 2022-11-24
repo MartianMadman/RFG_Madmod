@@ -112,6 +112,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Restore player sequential damage factor.
 -Reduce sniper rilfe bullet spread.
 -Improve more explosion physics.
+-Reduce player camera distance.
 -Make ammo boxes invulnerable.
 -Optimize lod_properties.xtbl.
 -Adjust game difficulty.
