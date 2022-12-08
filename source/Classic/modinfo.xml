@@ -129,7 +129,6 @@
 	<Replace File="build\pc\cache\misc.vpp\vehicle_defaults.xtbl" NewFile="newfolder\vehicle_defaults.xtbl" />
 	<Replace File="build\pc\cache\misc.vpp\spawn_parameters.xtbl" NewFile="newfolder\spawn_parameters.xtbl" />
 	<Replace File="build\pc\cache\misc.vpp\guerrilla_reinforcement.xtbl" NewFile="newfolder\guerrilla_reinforcement.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\camera.xtbl" NewFile="newfolder\camera.xtbl" />
     <Edit File="build\pc\cache\misc.vpp\character.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
 	    <Character>
 	    	<Name>rfg_PC</Name>
@@ -992,6 +991,13 @@
 		  	<Spread_Min>0.0</Spread_Min>
 			<NPC_Spread_Max>1</NPC_Spread_Max>
       		<NPC_Spread_Min>0</NPC_Spread_Min>
+			<Projectile_Info>
+    		    <Projectile_Flags LIST_ACTION="REPLACE">
+    		      <Flag>detonate on impact</Flag>
+    		      <Flag>detonate on explosion impact</Flag>
+    		      <Flag>immediate effect detach</Flag>
+    		    </Projectile_Flags>
+    		  </Projectile_Info>
 		  	<_Editor>
 		  		<Category>Entries:Guerilla</Category>
 		  	</_Editor>
@@ -2212,7 +2218,7 @@
 			<Ragdoll_Chance>100.0</Ragdoll_Chance>
 	  </Weapon>
     </Edit>
-    <Edit File="build\pc\cache\misc.vpp\camera_shake.xtbl" LIST_ACTION="Replace">
+    <Edit File="build\pc\cache\misc.vpp\camera_shake.xtbl" LIST_ACTION="REPLACE">
     </Edit>
   </Changes>
 </Mod>
