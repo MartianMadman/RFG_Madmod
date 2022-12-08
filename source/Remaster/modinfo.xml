@@ -991,13 +991,6 @@
 		  	<Spread_Min>0.0</Spread_Min>
 			<NPC_Spread_Max>1</NPC_Spread_Max>
       		<NPC_Spread_Min>0</NPC_Spread_Min>
-			<Projectile_Info>
-    		    <Projectile_Flags LIST_ACTION="REPLACE">
-    		      <Flag>detonate on impact</Flag>
-    		      <Flag>detonate on explosion impact</Flag>
-    		      <Flag>immediate effect detach</Flag>
-    		    </Projectile_Flags>
-    		  </Projectile_Info>
 		  	<_Editor>
 		  		<Category>Entries:Guerilla</Category>
 		  	</_Editor>
