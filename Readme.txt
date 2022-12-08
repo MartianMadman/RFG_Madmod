@@ -111,7 +111,6 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Slightly increase player health regen rate.
 -Restore player sequential damage factor.
 -Reduce sniper rilfe bullet spread.
--Improve rocket launcher accuracy.
 -Improve more explosion physics.
 -Make ammo boxes invulnerable.
 -Optimize lod_properties.xtbl.
