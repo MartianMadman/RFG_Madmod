@@ -106,6 +106,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Tweak rfg_stress_controls.xtbl to remove stress test delays.
 -Restore original ai burst sizes to fix potential ai bugs.
 -Increased guerrilla reinforcements spawn density.
+-Reduce 3rd person camera distance from player.
 -Removed guerrilla reinforcements spawn delay.
 -Increase cost of upgrades a little bit more.
 -Slightly increase player health regen rate.
