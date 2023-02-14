@@ -324,15 +324,15 @@
 	<back_ambient_color>
 		<key>
 			<time>0</time>
-			<value>0.009721 0.035601 0.051269 25.000000</value>
+			<value>0.009721 0.035601 0.051269 3.000000</value>
 		</key>
 		<key>
 			<time>4</time>
-			<value>0.009721 0.035601 0.051269 25.000000</value>
+			<value>0.009721 0.035601 0.051269 3.000000</value>
 		</key>
 		<key>
 			<time>6</time>
-			<value>0.006512 0.045186 0.063010 25.000000</value>
+			<value>0.006512 0.045186 0.063010 3.000000</value>
 		</key>
 		<key>
 			<time>17</time>
@@ -348,7 +348,7 @@
 		</key>
 		<key>
 			<time>45</time>
-			<value>0.009721 0.035601 0.051269 25.000000</value>
+			<value>0.009721 0.035601 0.051269 3.000000</value>
 		</key>
 	</back_ambient_color>
 	<tod_light_color>
@@ -530,49 +530,13 @@
 	<eye_adaption_base>
 		<key>
 			<time>4</time>
-			<value>0.000000</value>
-		</key>
-		<key>
-			<time>9</time>
-			<value>0.000000</value>
-		</key>
-		<key>
-			<time>12</time>
-			<value>0.200000</value>
-		</key>
-		<key>
-			<time>42</time>
-			<value>0.200000</value>
-		</key>
-		<key>
-			<time>45</time>
-			<value>0.000000</value>
+			<value>1.000000</value>
 		</key>
 	</eye_adaption_base>
 	<eye_adaption_amount>
 		<key>
-			<time>0</time>
-			<value>1.700000</value>
-		</key>
-		<key>
 			<time>4</time>
-			<value>1.700000</value>
-		</key>
-		<key>
-			<time>9</time>
-			<value>1.700000</value>
-		</key>
-		<key>
-			<time>12</time>
-			<value>0.500000</value>
-		</key>
-		<key>
-			<time>42</time>
-			<value>0.500000</value>
-		</key>
-		<key>
-			<time>45</time>
-			<value>1.700000</value>
+			<value>0.000000</value>
 		</key>
 	</eye_adaption_amount>
 	<eye_fade_min>
