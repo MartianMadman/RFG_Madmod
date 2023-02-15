@@ -109,9 +109,9 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Reduce 3rd person camera distance from player.
 -Removed guerrilla reinforcements spawn delay.
 -Increase cost of upgrades a little bit more.
+-Reduce sniper and nano rifle bullet spread.
 -Slightly increase player health regen rate.
 -Restore player sequential damage factor.
--Reduce sniper rilfe bullet spread.
 -Improve more explosion physics.
 -Make ammo boxes invulnerable.
 -Optimize lod_properties.xtbl.
