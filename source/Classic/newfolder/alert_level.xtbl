@@ -4,7 +4,7 @@
 		<Name>EDFStateData</Name>
 		<SolidYellowMin>250</SolidYellowMin>
 		<SolidOrangeMax>1100</SolidOrangeMax>
-		<SolidRedMin>5000</SolidRedMin>
+		<SolidRedMin>4000</SolidRedMin>
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
@@ -14,7 +14,7 @@
 		<DecayRateRed>999</DecayRateRed>
 		<MaxDecayMultiplier>1</MaxDecayMultiplier>
 		<SolidYellowMax>300</SolidYellowMax>
-		<SolidRedMax>5100</SolidRedMax>
+		<SolidRedMax>4100</SolidRedMax>
 		<SolidOrangeMin>1000</SolidOrangeMin>
 		<ContactGrowRate>75</ContactGrowRate>
 		<structure_damage_threshold>0.05</structure_damage_threshold>
