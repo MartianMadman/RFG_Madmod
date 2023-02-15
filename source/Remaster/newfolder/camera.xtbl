@@ -3,7 +3,7 @@
 	<camera_view>
 		<Name>normal</Name>
 		<change_view_time>200</change_view_time>
-		<distance>sprint</distance>
+		<distance>close</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov>False</use_weapon_fov>
@@ -87,7 +87,7 @@
 	<camera_view>
 		<Name>sprint</Name>
 		<change_view_time>500</change_view_time>
-		<distance>sprint</distance>
+		<distance>close</distance>
 		<near_dof>
 			<use_dof>False</use_dof>
 			<use_weapon_fov>False</use_weapon_fov>
