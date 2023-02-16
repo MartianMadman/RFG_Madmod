@@ -89,6 +89,12 @@
 		<Option Name="46">46</Option>
 		<Option Name="45">45</Option>
     </ListBox>
+	<ListBox Name="CameraDistance" DisplayName="Camera Distance">
+      	<Option Name="Normal">normal</Option>
+		<Option Name="Close">sprint</Option>
+		<Option Name="Closer">close</Option>
+		<Option Name="Closest">scope</Option>
+    </ListBox>
 	<ListBox Name="AutoCenter" DisplayName="Vehicle Auto-Centering">
       	<Option Name="Enabled">0.5</Option>
 		<Option Name="Disabled">0.0</Option>
@@ -129,12 +135,27 @@
 	<Replace File="build\pc\cache\misc.vpp\vehicle_defaults.xtbl" NewFile="newfolder\vehicle_defaults.xtbl" />
 	<Replace File="build\pc\cache\misc.vpp\spawn_parameters.xtbl" NewFile="newfolder\spawn_parameters.xtbl" />
 	<Replace File="build\pc\cache\misc.vpp\guerrilla_reinforcement.xtbl" NewFile="newfolder\guerrilla_reinforcement.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\camera.xtbl" NewFile="newfolder\camera.xtbl" />
     <Edit File="build\pc\cache\misc.vpp\character.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
 	    <Character>
 	    	<Name>rfg_PC</Name>
 	    	<max_speed>10</max_speed>
 	    	</Character>    
+    </Edit>
+	 <Edit File="build\pc\cache\misc.vpp\camera.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
+	    <camera_view>
+			<Name>normal</Name>
+			<distance>CameraDistance</distance>
+			<_Editor>
+				<Category>Entries</Category>
+				</_Editor>
+			</camera_view>
+		<camera_view>
+			<Name>sprint</Name>
+			<distance>CameraDistance</distance>
+			<_Editor>
+				<Category>Entries</Category>
+				</_Editor>
+			</camera_view>   
     </Edit>
 	<Edit File="build\pc\cache\misc.vpp\squad_progression.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
 	    <squad_progression>
