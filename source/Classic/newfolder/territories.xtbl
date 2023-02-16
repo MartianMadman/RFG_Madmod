@@ -443,8 +443,8 @@
 				</District>
 			<District>
 				<Name>Oasis</Name>
-				<Control>705</Control>
-				<Control_max>705</Control_max>
+				<Control>745</Control>
+				<Control_max>745</Control_max>
 				<Morale>10</Morale>
 				<Morale_max>100</Morale_max>
 				<Grid_index>
