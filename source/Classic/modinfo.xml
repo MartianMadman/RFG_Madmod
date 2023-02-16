@@ -367,7 +367,6 @@
 		<Tweak_Table_Entry>
 			<Name>Player_vehicle_collision_damage_max</Name>
 			<Value>0</Value>
-			<Description>Max amount of collision damage a vehicle can to the player or VIP.</Description>
 			<_Editor>
 				<Category>Miscellaneous:Collision</Category>
 				</_Editor>
@@ -501,7 +500,6 @@
 		<Tweak_Table_Entry>
 			<Name>Thermo_mid_air_detonation_delay_ms</Name>
 			<Value>1000</Value>
-			<Description>The amount of time (in ms) the player must wait before detonating a thermobaric rocket mid-air.</Description>
 			<_Editor>
 				<Category>Weapons</Category>
 				</_Editor>
