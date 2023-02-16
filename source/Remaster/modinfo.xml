@@ -1237,6 +1237,7 @@
 		  	<Spread_Min>0.0</Spread_Min>
 			<NPC_Spread_Max>1</NPC_Spread_Max>
       		<NPC_Spread_Min>0</NPC_Spread_Min>
+			<To_Spread_Max>3</To_Spread_Max>
 		  	<Spread_Multiplier_Run>1.0</Spread_Multiplier_Run>
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
