@@ -131,10 +131,10 @@
 				</Item>
 			<Item>
 				<Name>MENU_UPGRADE_COST_MULTIPLIER</Name>
-				<Easy>3.0</Easy>
-				<Medium>3.0</Medium>
-				<Hard>3.0</Hard>
-				<Insane>3.0</Insane>
+				<Easy>2.5</Easy>
+				<Medium>2.5</Medium>
+				<Hard>2.5</Hard>
+				<Insane>2.5</Insane>
 				</Item>
 			<Item>
 				<Name>MENU_MORALE_BOOSTS</Name>
