@@ -141,17 +141,17 @@
 	    	<max_speed>10</max_speed>
 	    	</Character>    
     </Edit>
-	 <Edit File="build\pc\cache\misc.vpp\camera.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
+	 <Edit File="build\pc\cache\misc.vpp\camera.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
 	    <camera_view>
 			<Name>normal</Name>
-			<distance>CameraDistance</distance>
+			<distance><USER_INPUT>CameraDistance</USER_INPUT></distance>
 			<_Editor>
 				<Category>Entries</Category>
 				</_Editor>
 			</camera_view>
 		<camera_view>
 			<Name>sprint</Name>
-			<distance>CameraDistance</distance>
+			<distance><USER_INPUT>CameraDistance</USER_INPUT></distance>
 			<_Editor>
 				<Category>Entries</Category>
 				</_Editor>
