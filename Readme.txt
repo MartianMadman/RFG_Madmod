@@ -103,13 +103,12 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Reduce frequency at which player ragdolls when standing on moving vehicles.
 -Better collision physics for salvage. Can now stack on top each other.
 -Restore original ai max firing distances to fix potential ai bugs.
+-Reduce sniper rifle, nano rifle, and rail driver bullet spread.
 -Tweak rfg_stress_controls.xtbl to remove stress test delays.
 -Restore original ai burst sizes to fix potential ai bugs.
 -Increased guerrilla reinforcements spawn density.
--Reduce 3rd person camera distance from player.
 -Removed guerrilla reinforcements spawn delay.
 -Increase cost of upgrades a little bit more.
--Reduce sniper and nano rifle bullet spread.
 -Slightly increase player health regen rate.
 -Restore player sequential damage factor.
 -Increase EDF control in Oasis by 40.
