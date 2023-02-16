@@ -498,6 +498,14 @@
 				<Category>Movement:Falling</Category>
 				</_Editor>
 			</Tweak_Table_Entry>
+		<Tweak_Table_Entry>
+			<Name>Thermo_mid_air_detonation_delay_ms</Name>
+			<Value>1000</Value>
+			<Description>The amount of time (in ms) the player must wait before detonating a thermobaric rocket mid-air.</Description>
+			<_Editor>
+				<Category>Weapons</Category>
+				</_Editor>
+			</Tweak_Table_Entry>
     </Edit>
     <Edit File="build\pc\cache\misc.vpp\weapons.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
 		<Weapon>
@@ -1032,6 +1040,7 @@
 		  	<Max_Rounds>99</Max_Rounds>
 		  	<Range_Red>200</Range_Red>
 		  	<Default_Refire_Delay>1500</Default_Refire_Delay>
+			<Explosion>big bang</Explosion>
 		  	<Spread_Max>1.0</Spread_Max>
 		  	<Spread_Min>0.0</Spread_Min>
 			<NPC_Spread_Max>1</NPC_Spread_Max>

@@ -320,7 +320,7 @@
 		</Explosion>
 	<Explosion>
 		<Name>Big Bang</Name>
-		<Radius>6</Radius>
+		<Radius>26</Radius>
 		<AI_Sound_Radius>100</AI_Sound_Radius>
 		<vehicle_damage_max>15000</vehicle_damage_max>
 		<vehicle_damage_min>1500</vehicle_damage_min>
@@ -331,9 +331,9 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<CrumbleRadius>8</CrumbleRadius>
-		<KnockdownRadius>12</KnockdownRadius>
-		<FlinchRadius>24</FlinchRadius>
+		<CrumbleRadius>28</CrumbleRadius>
+		<KnockdownRadius>32</KnockdownRadius>
+		<FlinchRadius>44</FlinchRadius>
 		<Duration>100</Duration>
 		<player_mult>1.0</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
@@ -1837,7 +1837,7 @@
 		</Explosion>
 	<Explosion>
 		<Name>thermo_rocket</Name>
-		<Radius>6.5</Radius>
+		<Radius>16.5</Radius>
 		<AI_Sound_Radius>100</AI_Sound_Radius>
 		<vehicle_damage_max>15000</vehicle_damage_max>
 		<vehicle_damage_min>1000</vehicle_damage_min>
@@ -1848,9 +1848,9 @@
 		<_Editor>
 			<Category>Entries</Category>
 			</_Editor>
-		<CrumbleRadius>7</CrumbleRadius>
-		<KnockdownRadius>9.5</KnockdownRadius>
-		<FlinchRadius>20</FlinchRadius>
+		<CrumbleRadius>17</CrumbleRadius>
+		<KnockdownRadius>19.5</KnockdownRadius>
+		<FlinchRadius>30</FlinchRadius>
 		<player_mult>0.7</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
