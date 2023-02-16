@@ -89,10 +89,10 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 
 \Changelog v0.9b/
 -Increase distance at which EDF will spot the player with a threatening weapon. Will become hostile when player is seen carrying them for long enough.
--Increase amount of EDF control in Eos by 410. This will be the last time a change like this is needed. Only takes effect with a new game.
 -Add modmanager config options. Vehicle fov, satellite artillery cam fov, melee auto-targeting, and vehicle cam auto-centering.
 -Improve overall visual quality by reducing ambient lighting brightness to make shadows and shaded objects darker.
 -Increase max speed of all vehicles. Be aware that the faster you go the worse the vehicle will handle.
+-Increase amount of EDF control in Eos by 410. Only takes effect with a new game.
 -Reduce size of blood decals. They are still fairly large with this change.
 -Tweaks to rfg_stress_controls.xtbl again.
 
@@ -112,6 +112,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Reduce sniper and nano rifle bullet spread.
 -Slightly increase player health regen rate.
 -Restore player sequential damage factor.
+-Increase EDF control in Oasis by 40.
 -Improve more explosion physics.
 -Make ammo boxes invulnerable.
 -Optimize lod_properties.xtbl.
