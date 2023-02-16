@@ -2050,12 +2050,12 @@
 	  </Weapon>
 		  <Weapon>
 		  	<Name>turret_missilepod</Name>
-		  	<Trigger_Type>single</Trigger_Type>
+		  	<Trigger_Type>automatic</Trigger_Type>
 		  	<Ammo_Type>projectile</Ammo_Type>
 		  	<Magazine_Size>6</Magazine_Size>
 		  	<Max_Rounds>999</Max_Rounds>
 		  	<Range_Red>120</Range_Red>
-		  	<Default_Refire_Delay>0</Default_Refire_Delay>
+		  	<Default_Refire_Delay>400</Default_Refire_Delay>
 		  	<Spread_Max>1.0</Spread_Max>
 		  	<Spread_Min>0.0</Spread_Min>
 			<NPC_Spread_Max>1</NPC_Spread_Max>
@@ -2067,17 +2067,17 @@
 		  	<reticule_name>ui_hud_reti_sniperrifle</reticule_name>
 		  	<Overheat_Percent_Per_Shot>0.0</Overheat_Percent_Per_Shot>
         	<Player_Move_Speed>1.0</Player_Move_Speed>
-			<Prefire_Delay>0</Prefire_Delay>
+			<Prefire_Delay>200</Prefire_Delay>
 			<Ragdoll_Chance>100.0</Ragdoll_Chance>
 	  </Weapon>
 		  <Weapon>
 		  	<Name>turret_missilepod2</Name>
-		  	<Trigger_Type>single</Trigger_Type>
+		  	<Trigger_Type>automatic</Trigger_Type>
 		  	<Ammo_Type>projectile</Ammo_Type>
 		  	<Magazine_Size>6</Magazine_Size>
 		  	<Max_Rounds>999</Max_Rounds>
 		  	<Range_Red>120</Range_Red>
-		  	<Default_Refire_Delay>0</Default_Refire_Delay>
+		  	<Default_Refire_Delay>400</Default_Refire_Delay>
 		  	<Spread_Max>1.0</Spread_Max>
 		  	<Spread_Min>0.0</Spread_Min>
 			<NPC_Spread_Max>1</NPC_Spread_Max>
