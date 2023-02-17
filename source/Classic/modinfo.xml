@@ -1803,7 +1803,7 @@
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
 		  	<Ammo_Box_Restock>999</Ammo_Box_Restock>
 		  	<reticule_name>ui_hud_reti_sniperrifle</reticule_name>
-		  	<Shots_Per_Round>3</Shots_Per_Round>
+		  	<Shots_Per_Round>1</Shots_Per_Round>
 		  	<Fire_Cone_Angle>4.0</Fire_Cone_Angle>
 		  	<Even_Spread_Accuracy_Angle>1.0</Even_Spread_Accuracy_Angle>
         	<Player_Move_Speed>1.0</Player_Move_Speed>
