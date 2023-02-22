@@ -106,6 +106,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Reduce sniper rifle, nano rifle, and rail driver bullet spread.
 -Tweak rfg_stress_controls.xtbl to remove stress test delays.
 -Restore original ai burst sizes to fix potential ai bugs.
+-Despawn props based on a limit rather than a timer.
 -Increased guerrilla reinforcements spawn density.
 -Removed guerrilla reinforcements spawn delay.
 -Increase cost of upgrades a little bit more.
@@ -120,7 +121,6 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 \Install from github/
 This mod is made to work with RFG Mod Manager and doesn't need to be packed by the developer to work. To install from github you'll first obviously need to download the repository files. Then download the Mod Manager for RFG which can be found at (https://www.factionfiles.com/ff.php?action=search&pageaction=searchfiles&search_query=mod+manager&file_searchby=7&file_searchgame=3&file_searchcat=&file_sort=5) Use the readme in the Mod Manager download to read up on how to use it. Only the Mod Manager for the original RFG has the readme which is a bit inconvenient. Once done with that, go to the source directory of Madmod and depending on which version of RFG you use, copy either the Classic or Remaster directory into the mods folder of Mod Manager. Optionally you should rename the directory you copied to Madmod after you've put it in the mods folder. At this point you should be good to go and Mod Manager should be able to install it from here.
 
-\Issues/
--The never despawning props feature will eventually cause very bizarre issues to occur. When this happens, save game and load that save you just made to fix the issues. 
+\Issues/ 
 -Some guerrilla activities are locked behind missions so if you are unable to get sector control to zero then try completing the missions.
 -Player animations not working on classic RFG until you change weapons.
