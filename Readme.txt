@@ -1,7 +1,7 @@
 Madmod is a large overhaul mod that aims to make the game a much better experience. It affects both the gameplay and visuals and also greatly extends the length of the main campaign. Starting a new game is required for all changes of this mod to properly take effect. This mod is most likely to be incompatible with other mod manager mods and does not affect the dlc.
 
 \Initial release changes/
--Small 3d items like dropped weapons or empty clips will never despawn. This will inevitably cause strange things to happen but I haven't had it cause crashes so that's good. Loading a save will despawn them and fix the issue. 
+(Reverted)-Small 3d items like dropped weapons or empty clips will never despawn. This will inevitably cause strange things to happen but I haven't had it cause crashes so that's good. Loading a save will despawn them and fix the issue. 
 -Increased amount of EDF control for all sectors to force players to partake in many more guerrilla activities per sector and makes the overall game a much longer experience.
 -Npcs on the same team can not damage each other. Prevents horde’s from accidentally killing their own people during combat. Players can still kill npcs.
 -Major improvements to the way explosions are handled. Explosions will blast away any structure with ease including those pesky steel beams.
