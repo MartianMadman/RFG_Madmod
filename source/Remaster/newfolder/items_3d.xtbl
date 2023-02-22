@@ -9,7 +9,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -47,7 +46,6 @@
 			<streaming_category>General</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -68,7 +66,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -89,7 +86,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -143,8 +139,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -161,8 +155,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -179,8 +171,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -196,9 +186,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -220,7 +207,6 @@
 			</character_mesh>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -238,7 +224,6 @@
 			<Name>Debbie_Jacket</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -287,7 +272,6 @@
 			<streaming_category>General</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -308,7 +292,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -323,9 +306,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -353,7 +334,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -396,7 +376,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -457,7 +436,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -483,7 +461,6 @@
 			<Name>edf_rocket_turret_top</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -507,7 +484,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -533,7 +509,6 @@
 			<Name>jetter_rocket_turret_head</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -549,7 +524,6 @@
 			<Name>jetter_mg_turret_head</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -566,7 +540,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -592,7 +565,6 @@
 			<Name>rocket_turret_top</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -615,7 +587,6 @@
 			<Name>rocket_turret_middle</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -631,7 +602,6 @@
 			<Name>gauss_turret_top</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -654,7 +624,6 @@
 			<Name>turret_tank_1</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -672,7 +641,6 @@
 			<Item_Flags>
 				<Flag>high_res_map_large</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -698,7 +666,6 @@
 			<Name>turret_top_1</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -721,7 +688,6 @@
 			<Name>turret_middle_1</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -738,7 +704,6 @@
 			<Item_Flags>
 				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -761,7 +726,6 @@
 				<Flag>is_ammo_box</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Environmental</streaming_category>
@@ -789,7 +753,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -813,7 +776,6 @@
 			<Name>Mason_Coat</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -851,7 +813,6 @@
 			<streaming_category>Environmental</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -885,7 +846,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -910,7 +870,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -1016,7 +975,6 @@
 		<Item>
 			<Name>Jayde_Hair_Long</Name>
 			<Item_Flags>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -1031,9 +989,7 @@
 			<Name>repair_tool</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -1074,7 +1030,6 @@
 			<Name>Camie_Dress</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -1096,7 +1051,6 @@
 			<Name>Camie_Shirt</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -1118,7 +1072,6 @@
 			<Name>Camie_Spine</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -1157,7 +1110,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<SafehouseWeapon>repair_tool</SafehouseWeapon>
@@ -1183,7 +1135,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<SafehouseWeapon>m16</SafehouseWeapon>
@@ -1199,7 +1150,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<SafehouseWeapon>rail_driver</SafehouseWeapon>
@@ -1218,7 +1168,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -1243,7 +1192,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -1269,7 +1217,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -1296,7 +1243,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<SafehouseWeapon>nano_rifle</SafehouseWeapon>
@@ -1325,7 +1271,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<SafehouseWeapon>edf_pistol</SafehouseWeapon>
@@ -1351,7 +1296,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<SafehouseWeapon>sniper_rifle</SafehouseWeapon>
@@ -1367,7 +1311,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<SafehouseWeapon>arc_welder</SafehouseWeapon>
@@ -1385,7 +1328,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -1425,10 +1367,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
@@ -1456,10 +1395,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Mesh>
@@ -1488,10 +1424,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
@@ -1522,10 +1455,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Mesh>
@@ -1552,10 +1482,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Mesh>
@@ -1585,10 +1512,7 @@
 			<streaming_category>General</streaming_category>
 			<Item_Flags>
 				<Flag>high_res_map_large</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<pickup_static_mesh>
 				<Filename>gutter_pickup.smeshx</Filename>
@@ -1608,10 +1532,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -1630,10 +1551,7 @@
 			<Respawn_Delay>45000</Respawn_Delay>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_CHARGE_AMMO_PICKUP</Touch_Sound>
@@ -1654,10 +1572,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Props>
@@ -1690,8 +1605,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_cylinder</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -1719,10 +1632,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -1752,10 +1662,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
@@ -1776,8 +1683,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -1795,9 +1700,7 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>spin</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Script>give_item</Touch_Script>
@@ -1811,12 +1714,6 @@
 				<Category>Entries:WeaponGuerilla</Category>
 			</_Editor>
 			<Spin_Time>5000</Spin_Time>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-				<Flag>no_auto_delete</Flag>
-			</Item_Flags>
 			<Mesh>
 				<Filename>rpg_projectile.smeshx</Filename>
 			</Mesh>
@@ -1834,10 +1731,7 @@
 			<Spin_Time>5000</Spin_Time>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -1876,10 +1770,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -1891,7 +1782,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -1910,10 +1800,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Props>
@@ -1950,10 +1837,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
@@ -1975,10 +1859,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -1993,7 +1874,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_sphere</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -2010,8 +1890,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2042,7 +1920,6 @@
 			<Spin_Time>5000</Spin_Time>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 		</Item>
@@ -2050,7 +1927,6 @@
 			<Name>power_item</Name>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>3000</Spin_Time>
 			<Mesh>
@@ -2083,7 +1959,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -2155,7 +2030,6 @@
 			<Name>Eddie_Hip_Bag_Right</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2177,7 +2051,6 @@
 			<Name>Eddie_Hip_Bag_Front</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2213,7 +2086,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -2226,7 +2098,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -2250,7 +2121,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -2273,7 +2143,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -2300,10 +2169,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -2316,7 +2182,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -2339,7 +2204,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -2366,10 +2230,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -2394,10 +2255,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Props>
@@ -2436,7 +2294,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -2456,7 +2313,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<MaterialEffect>heal</MaterialEffect>
@@ -2473,7 +2329,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 		</Item>
@@ -2487,7 +2342,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -2515,7 +2369,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -2532,7 +2385,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Arg2>2.0</Touch_Arg2>
 		</Item>
@@ -2549,20 +2401,15 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>singularity_bomb</Name>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2587,7 +2434,6 @@
 			<Name>Camie_Veil</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2623,7 +2469,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -2638,7 +2483,6 @@
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
 				<Flag>use_pickup</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -2662,7 +2506,6 @@
 		<Item>
 			<Name>Marie_Hair_Short</Name>
 			<Item_Flags>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -2679,7 +2522,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2707,7 +2549,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2730,7 +2571,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Touch_Script>give_item_safehouse</Touch_Script>
@@ -2749,7 +2589,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -2781,10 +2620,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -2934,7 +2770,6 @@
 				<Flag>is_ammo_box</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -2959,11 +2794,6 @@
 				<Filename>placed_salvage.SMESHX</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -2972,6 +2802,9 @@
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<Touch_Arg1>2</Touch_Arg1>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>banner_soldier</Name>
@@ -3109,10 +2942,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -3127,9 +2957,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Mass>80</Mass>
 		</Item>
@@ -3137,9 +2965,7 @@
 			<Name>machinegun_turret_head_corpse</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -3155,9 +2981,7 @@
 			<Name>gauss_turret_head_corpse</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -3181,9 +3005,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Mass>80</Mass>
 		</Item>
@@ -3196,7 +3018,6 @@
 			<Item_Flags>
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Mesh>
@@ -3208,7 +3029,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -3224,7 +3044,6 @@
 			<Name>artillery_middle</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -3240,7 +3059,6 @@
 			<Name>artillery_gun</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -3261,10 +3079,8 @@
 			<Spin_Time>5000</Spin_Time>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
 				<Flag>is_personal_shield</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
@@ -3278,7 +3094,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -3316,7 +3131,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3336,9 +3150,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Mass>80</Mass>
 		</Item>
@@ -3352,7 +3164,6 @@
 			<Item_Flags>
 				<Flag>collide_as_cylinder</Flag>
 				<Flag>is_virtual_shield</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Mesh>
 				<Filename>gutter_shield_col.smeshx</Filename>
@@ -3367,7 +3178,6 @@
 			<streaming_category>Multiplayer</streaming_category>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Mesh>
 				<Filename>vision_headset.smeshx</Filename>
@@ -3415,7 +3225,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -3431,7 +3240,6 @@
 			<Name>mass_driver_head</Name>
 			<Item_Flags>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -3464,7 +3272,6 @@
 				<Flag>no_pickup_delete</Flag>
 				<Flag>ignore_physics</Flag>
 				<Flag>special_bbox</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -3492,7 +3299,6 @@
 			<Mass>150.0</Mass>
 			<Item_Flags>
 				<Flag>ignore_physics</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>blast_from_the_past</Touch_Script>
 		</Item>
@@ -3507,7 +3313,6 @@
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
 				<Flag>use_pickup</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Environmental</streaming_category>
@@ -3536,8 +3341,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Mass>80</Mass>
 		</Item>
@@ -3547,9 +3350,6 @@
 				<Category>Entries:WeaponGuerilla</Category>
 			</_Editor>
 			<Spin_Time>5000</Spin_Time>
-			<Item_Flags>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<Mesh>
 				<Filename>nano_forge.smeshx</Filename>
 			</Mesh>
@@ -3564,9 +3364,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -3581,9 +3379,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -3598,9 +3394,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -3617,7 +3411,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3634,7 +3427,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3649,9 +3441,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3666,9 +3456,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3683,9 +3471,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3700,9 +3486,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3717,9 +3501,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3734,9 +3516,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -3751,9 +3531,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3768,9 +3546,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3791,9 +3567,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3818,7 +3592,6 @@
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
 				<Flag>use_pickup</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Environmental</streaming_category>
@@ -3845,7 +3618,6 @@
 				<Flag>no_auto_delete</Flag>
 				<Flag>no_pickup_delete</Flag>
 				<Flag>use_pickup</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Environmental</streaming_category>
@@ -3876,9 +3648,8 @@
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
 			<Item_Flags>
-				<Flag>spin</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
+				<Flag>spin</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -3888,9 +3659,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -3910,17 +3679,13 @@
 			<Props>
 				<Prop>
 					<Name>gauss_clip</Name>
-					<Flag>no_auto_delete</Flag>
 					<Attach_tag>Clip_bone</Attach_tag>
 					<Type>clip</Type>
 				</Prop>
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
@@ -3946,10 +3711,7 @@
 			</Props>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>high_res_map_large</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Touch_Sound>SYS_WEP_GUN_PICKUP</Touch_Sound>
@@ -3963,7 +3725,6 @@
 			<Item_Flags>
 				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -3979,7 +3740,6 @@
 			<Name>g_turret_middle</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -3998,9 +3758,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -4015,9 +3773,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -4074,10 +3830,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -4093,10 +3846,7 @@
 			<Touch_Sound>SYS_WEP_AMMO_PICKUP</Touch_Sound>
 			<Touch_Sound_2>SYS_WEP_AMMO_PICKUP</Touch_Sound_2>
 			<Item_Flags>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_box</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -4108,7 +3858,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -4129,7 +3878,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -4150,7 +3898,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -4171,7 +3918,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -4192,7 +3938,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -4213,7 +3958,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -4234,7 +3978,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -4264,9 +4007,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -4292,7 +4033,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -4305,7 +4045,6 @@
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Touch_Script>give_backpack</Touch_Script>
 			<character_mesh>
@@ -4891,7 +4630,6 @@
 			</character_mesh>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -4901,9 +4639,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -4918,9 +4654,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -4935,9 +4669,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -4952,9 +4684,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -4969,9 +4699,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>General</streaming_category>
@@ -4983,7 +4711,6 @@
 			<Name>nothing</Name>
 			<Item_Flags>
 				<Flag>ignore_physics</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -5006,9 +4733,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5024,9 +4748,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5042,9 +4763,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5060,9 +4778,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5075,9 +4790,6 @@
 			<streaming_category>Multiplayer</streaming_category>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 			<character_mesh>
@@ -5102,9 +4814,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5120,9 +4829,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5138,9 +4844,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5156,9 +4859,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5174,9 +4874,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5189,9 +4886,6 @@
 			<streaming_category>Multiplayer</streaming_category>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 			<character_mesh>
@@ -5216,9 +4910,6 @@
 			</Mesh>
 			<Item_Flags>
 				<Flag>high_res_map_small</Flag>
-				<Flag>no_auto_delete</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<MaterialEffect>invulnerability</MaterialEffect>
 		</Item>
@@ -5240,7 +4931,6 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -5250,7 +4940,6 @@
 				<Flag>ignore_physics</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -5269,9 +4958,7 @@
 			</_Editor>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>no_auto_delete</Flag>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<streaming_category>Head mesh</streaming_category>
@@ -5371,7 +5058,6 @@
 			<Spin_Time>5000</Spin_Time>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 			<Mesh>
@@ -5383,7 +5069,6 @@
 		<Item>
 			<Name>turret_arc_null</Name>
 			<Item_Flags>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -5421,7 +5106,6 @@
 			<Name>EDF_NoTurret</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -5438,7 +5122,6 @@
 			<Name>nogunner_MG</Name>
 			<Item_Flags>
 				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
@@ -5481,7 +5164,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5502,7 +5184,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5523,7 +5204,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5544,7 +5224,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5565,7 +5244,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5586,7 +5264,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5607,7 +5284,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5628,7 +5304,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5649,7 +5324,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5670,7 +5344,6 @@
 			<streaming_category>Head mesh</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5720,7 +5393,6 @@
 			<Name>invis_middle</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -5741,7 +5413,6 @@
 			<streaming_category>Environmental</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5775,7 +5446,6 @@
 				<Flag>collide_as_box</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>ignore_physics</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -5800,7 +5470,6 @@
 				<Flag>collide_as_box</Flag>
 				<Flag>no_auto_delete</Flag>
 				<Flag>ignore_physics</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 		</Item>
 		<Item>
@@ -5812,7 +5481,6 @@
 			<streaming_category>Character prop mesh only</streaming_category>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<character_mesh>
 				<character_mesh>
@@ -5828,7 +5496,6 @@
 			<Name>flamewalker_null</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -5847,11 +5514,6 @@
 				<Filename>salvage_pickup_bundle.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5859,6 +5521,9 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>spawned_salvage2</Name>
@@ -5867,11 +5532,6 @@
 				<Filename>salvage_pickup_chip.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5879,6 +5539,9 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>spawned_salvage3</Name>
@@ -5887,11 +5550,6 @@
 				<Filename>salvage_pickup_cog.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5899,6 +5557,9 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>spawned_salvage4</Name>
@@ -5907,11 +5568,6 @@
 				<Filename>salvage_pickup_filter.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5919,6 +5575,9 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>spawned_salvage5</Name>
@@ -5927,11 +5586,6 @@
 				<Filename>salvage_pickup_panel.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5939,6 +5593,9 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>spawned_salvage6</Name>
@@ -5947,11 +5604,6 @@
 				<Filename>salvage_pickup_pipe.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5959,6 +5611,9 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>spawned_salvage7</Name>
@@ -5967,11 +5622,6 @@
 				<Filename>salvage_pickup_muffler.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5979,6 +5629,9 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>spawned_salvage8</Name>
@@ -5987,11 +5640,6 @@
 				<Filename>salvage_pickup_brace.smeshx</Filename>
 			</Mesh>
 			<Touch_Script>give_salvage</Touch_Script>
-			<Item_Flags>
-				<Flag>collide_as_box</Flag>
-				<Flag>collide_as_mover</Flag>
-				<Flag>casts_shadows</Flag>
-			</Item_Flags>
 			<_Editor>
 				<Category>Entries:Salvage</Category>
 			</_Editor>
@@ -5999,12 +5647,14 @@
 			<Mass>60.0</Mass>
 			<Touch_Sound>HUD_SALVAGE_PICKUP_METAL</Touch_Sound>
 			<MaterialEffect>salvage_sheen</MaterialEffect>
+			<Item_Flags>
+				<Flag>collide_as_mover</Flag>
+			</Item_Flags>
 		</Item>
 		<Item>
 			<Name>Mason_Armor_L1</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -6026,7 +5676,6 @@
 			<Name>Mason_Armor_L2</Name>
 			<Item_Flags>
 				<Flag>inherit_bone_transforms</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -6082,8 +5731,7 @@
 	<TableTemplates>
 		<Item>
 			<Name>Marie_Goggle_1</Name>
-				<Flag>casts_shadows</Flag><Item_Flags>
-			</Item_Flags>
+			<Item_Flags></Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<_Editor>
 				<Category>Character Props:Marie</Category>
@@ -6097,7 +5745,6 @@
 			<Name>turret_mp_backpack_head</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -6120,7 +5767,6 @@
 			<Name>turret_mp_backpack_body</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -6136,7 +5782,6 @@
 			<Name>turret_mp_backpack_base</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<Mesh>
@@ -6152,7 +5797,6 @@
 			<Name>turret_mp_backpack_weapon</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -6175,7 +5819,6 @@
 			<Name>turret_rocket</Name>
 			<Item_Flags>
 				<Flag>collide_as_box</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<Spin_Time>5000</Spin_Time>
 			<character_mesh>
@@ -6207,7 +5850,6 @@
 			<Spin_Time>5000</Spin_Time>
 			<Item_Flags>
 				<Flag>spin</Flag>
-				<Flag>casts_shadows</Flag>
 			</Item_Flags>
 			<streaming_category>General</streaming_category>
 		</Item>
