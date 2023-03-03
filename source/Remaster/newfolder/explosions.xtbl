@@ -205,10 +205,11 @@
 		<Duration>100</Duration>
 		<Delay>0</Delay>
 		<player_mult>0.4</player_mult>
-		<MaxSalvagePieces>0</MaxSalvagePieces>
-		<SalvageProbability>0</SalvageProbability>
+		<MaxSalvagePieces>4</MaxSalvagePieces>
+		<SalvageProbability>1</SalvageProbability>
 		<human_damage_min>500</human_damage_min>
 		<Human_Damage_Max>1500</Human_Damage_Max>
+		<SalvageMaterial>metal</SalvageMaterial>
 		<Structural_Damage>-1</Structural_Damage>
 		<Unique_ID>7</Unique_ID>
 		<camera_shake_type>explosion_very_large</camera_shake_type>
@@ -304,10 +305,11 @@
 		<Duration>100</Duration>
 		<Delay>200</Delay>
 		<player_mult>0.5</player_mult>
-		<MaxSalvagePieces>0</MaxSalvagePieces>
-		<SalvageProbability>0</SalvageProbability>
+		<MaxSalvagePieces>8</MaxSalvagePieces>
+		<SalvageProbability>1</SalvageProbability>
 		<human_damage_min>500</human_damage_min>
 		<Human_Damage_Max>1500</Human_Damage_Max>
+		<SalvageMaterial>metal</SalvageMaterial>
 		<Structural_Damage>-1</Structural_Damage>
 		<Unique_ID>24</Unique_ID>
 		<camera_shake_type>explosion_very_large</camera_shake_type>
@@ -865,7 +867,7 @@
 		<player_mult>0.8</player_mult>
 		<SalvageMaterial>metal</SalvageMaterial>
 		<MaxSalvagePieces>5</MaxSalvagePieces>
-		<SalvageProbability>0.3333333</SalvageProbability>
+		<SalvageProbability>1.0</SalvageProbability>
 		<human_damage_min>500</human_damage_min>
 		<Human_Damage_Max>5000</Human_Damage_Max>
 		<Structural_Damage>-1</Structural_Damage>
