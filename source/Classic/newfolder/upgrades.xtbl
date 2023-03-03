@@ -15,7 +15,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>1</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1198,7 +1198,7 @@
 				</Level>
 				<Level>
 					<Description>UPG_SLEDGEHAMMER_2</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>1</Value>
 					<Available>False</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1231,7 +1231,7 @@
 				</Level>
 				<Level>
 					<Description>UPG_CHROME_SLEDGE</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>2</Value>
 					<Available>False</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1296,7 +1296,7 @@
 				</Level>
 				<Level>
 					<Description>MENU_HAMMER_UNLOCK</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>3</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1329,7 +1329,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_3</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>4</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1362,7 +1362,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_4</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>5</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1395,7 +1395,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_5</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>6</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1428,7 +1428,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_6</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>7</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1461,7 +1461,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_7</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>8</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1494,7 +1494,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_8</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>9</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1527,7 +1527,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_9</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>10</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1560,7 +1560,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_10</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>11</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1593,7 +1593,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_11</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>12</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1626,7 +1626,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_12</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>13</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1659,7 +1659,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_13</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>14</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
@@ -1692,7 +1692,7 @@
 				</Level>
 				<Level>
 					<Description>WEAP_SLEDGE_UPG_14</Description>
-					<Cost>0</Cost>
+					<Cost>1</Cost>
 					<Value>15</Value>
 					<Available>True</Available>
 					<Show_Locked>False</Show_Locked>
