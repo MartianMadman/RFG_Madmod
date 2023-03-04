@@ -882,7 +882,7 @@
 		</Explosion>
 	<Explosion>
 		<Name>nano_rifle_exp</Name>
-		<Radius>3.0</Radius>
+		<Radius>2.2</Radius>
 		<AI_Sound_Radius>0</AI_Sound_Radius>
 		<vehicle_damage_max>300</vehicle_damage_max>
 		<vehicle_damage_min>300</vehicle_damage_min>
@@ -895,14 +895,14 @@
 			</_Editor>
 		<CrumbleRadius>0</CrumbleRadius>
 		<KnockdownRadius>0</KnockdownRadius>
-		<FlinchRadius>1.31</FlinchRadius>
+		<FlinchRadius>2.31</FlinchRadius>
 		<player_mult>0</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>0</human_damage_min>
 		<Human_Damage_Max>0</Human_Damage_Max>
 		<Structural_Damage>0</Structural_Damage>
-		<Duration>3000</Duration>
+		<Duration>2200</Duration>
 		<Delay>0</Delay>
 		<Break_off_pieces>
 			<Time_between_breaks>200</Time_between_breaks>
@@ -921,7 +921,7 @@
 		</Explosion>
 	<Explosion>
 		<Name>nano_rifle_exp2</Name>
-		<Radius>2.0</Radius>
+		<Radius>1.5</Radius>
 		<AI_Sound_Radius>0</AI_Sound_Radius>
 		<vehicle_damage_max>1000</vehicle_damage_max>
 		<vehicle_damage_min>1000</vehicle_damage_min>
@@ -934,14 +934,14 @@
 			</_Editor>
 		<CrumbleRadius>0</CrumbleRadius>
 		<KnockdownRadius>0</KnockdownRadius>
-		<FlinchRadius>0.7</FlinchRadius>
+		<FlinchRadius>1.7</FlinchRadius>
 		<player_mult>0</player_mult>
 		<MaxSalvagePieces>0</MaxSalvagePieces>
 		<SalvageProbability>0</SalvageProbability>
 		<human_damage_min>0</human_damage_min>
 		<Human_Damage_Max>0</Human_Damage_Max>
 		<Structural_Damage>0</Structural_Damage>
-		<Duration>2000</Duration>
+		<Duration>1500</Duration>
 		<Break_off_pieces>
 			<Time_between_breaks>200</Time_between_breaks>
 			</Break_off_pieces>
