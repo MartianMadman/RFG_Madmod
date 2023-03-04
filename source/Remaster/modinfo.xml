@@ -1354,18 +1354,26 @@
 		  	<Trigger_Type>automatic</Trigger_Type>
 		  	<Ammo_Type>electricity</Ammo_Type>
 		  	<Magazine_Size>99</Magazine_Size>
-		  	<Max_Rounds>999</Max_Rounds>
-		  	<Range_Red>10</Range_Red>
-		  	<Default_Refire_Delay>100</Default_Refire_Delay>
+		  	<Max_Rounds>499</Max_Rounds>
+			<Range_Max>20</Range_Max>
+		  	<Range_Red>20</Range_Red>
+		  	<Default_Refire_Delay>300</Default_Refire_Delay>
+			<Damage_Scaling_Max>
+      		  <NPC_Damage>250</NPC_Damage>
+      		  <Player_Damage>230</Player_Damage>
+      		  <Threshold>8</Threshold>
+      		  <Vehicle_Damage>230</Vehicle_Damage>
+      		  <Player_Vehicle_Damage>-1</Player_Vehicle_Damage>
+      		</Damage_Scaling_Max>
 		  	<_Editor>
 		  		<Category>Entries:Guerilla</Category>
 		  	</_Editor>
 		  	<Fire_Cone_Angle>50</Fire_Cone_Angle>
-		  	<Ammo_Box_Restock>9999</Ammo_Box_Restock>
+		  	<Ammo_Box_Restock>999</Ammo_Box_Restock>
 		  	<reticule_name>ui_hud_reti_sniperrifle</reticule_name>
 		  	<Reload_Delay>0</Reload_Delay>
 		  	<fine_aim_reticule>ui_hud_reti_sniperrifle</fine_aim_reticule>
-		  	<Max_Rounds_Upgrade>9999</Max_Rounds_Upgrade>
+		  	<Max_Rounds_Upgrade>999</Max_Rounds_Upgrade>
         	<Player_Move_Speed>1.0</Player_Move_Speed>
 			<Ragdoll_Chance>100.0</Ragdoll_Chance>
 	  </Weapon>
