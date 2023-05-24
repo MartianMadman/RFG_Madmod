@@ -112,6 +112,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Increase cost of upgrades a little bit more.
 -Slightly increase player health regen rate.
 -Restore player sequential damage factor.
+-Increase gauss rifle ragdoll push force.
 -Increase EDF control in Oasis by 40.
 -Improve more explosion physics.
 -Make ammo boxes invulnerable.
