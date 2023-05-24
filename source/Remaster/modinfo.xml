@@ -1193,7 +1193,7 @@
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>2.0</Ragdoll_Force_Shoot>
 		  	<Recoil_Kick>0</Recoil_Kick>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
