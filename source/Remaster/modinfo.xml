@@ -105,43 +105,43 @@
     </ListBox>
 	</UserInput>
 	<Changes>
-    <Replace File="build\pc\cache\misc.vpp\terr01_tutorial.dtodx" NewFile="newfolder\terr01_tutorial.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\terr01_parker.dtodx" NewFile="newfolder\terr01_parker.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\terr01_dust.dtodx" NewFile="newfolder\terr01_dust.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\terr01_badlands.dtodx" NewFile="newfolder\terr01_badlands.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\terr01_oasis.dtodx" NewFile="newfolder\terr01_oasis.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\terr01_eos.dtodx" NewFile="newfolder\terr01_eos.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\terr01_manufacturing.dtodx" NewFile="newfolder\terr01_manufacturing.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\terr01_end_game.dtodx" NewFile="newfolder\terr01_end_game.dtodx" />
-	<Replace File="build\pc\cache\misc.vpp\player.xtbl" NewFile="newfolder\player.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\territories.xtbl" NewFile="newfolder\territories.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\reinforcement_profile.xtbl" NewFile="newfolder\reinforcement_profile.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\rfg_materials.xtbl" NewFile="newfolder\rfg_materials.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\items_3d.xtbl" NewFile="newfolder\items_3d.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\decal_info.xtbl" NewFile="newfolder\decal_info.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\gameplay_properties.xtbl" NewFile="newfolder\gameplay_properties.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\startup_video_sequence.xtbl" NewFile="newfolder\startup_video_sequence.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\rfg_stress_controls.xtbl" NewFile="newfolder\rfg_stress_controls.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\vehicles.xtbl" NewFile="newfolder\vehicles.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\melee.xtbl" NewFile="newfolder\melee.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\explosions.xtbl" NewFile="newfolder\explosions.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\difficulty.xtbl" NewFile="newfolder\difficulty.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\effect_heartbeat.xtbl" NewFile="newfolder\effect_heartbeat.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\ambient_spawn_info.xtbl" NewFile="newfolder\ambient_spawn_info.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\lod_properties.xtbl" NewFile="newfolder\lod_properties.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\aim_drift.xtbl" NewFile="newfolder\aim_drift.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\alert_level.xtbl" NewFile="newfolder\alert_level.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\upgrades.xtbl" NewFile="newfolder\upgrades.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\vehicle_defaults.xtbl" NewFile="newfolder\vehicle_defaults.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\spawn_parameters.xtbl" NewFile="newfolder\spawn_parameters.xtbl" />
-	<Replace File="build\pc\cache\misc.vpp\guerrilla_reinforcement.xtbl" NewFile="newfolder\guerrilla_reinforcement.xtbl" />
-    <Edit File="build\pc\cache\misc.vpp\character.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
+    <Replace File="data\misc.vpp\terr01_tutorial.dtodx" NewFile="newfolder\terr01_tutorial.dtodx" />
+	<Replace File="data\misc.vpp\terr01_parker.dtodx" NewFile="newfolder\terr01_parker.dtodx" />
+	<Replace File="data\misc.vpp\terr01_dust.dtodx" NewFile="newfolder\terr01_dust.dtodx" />
+	<Replace File="data\misc.vpp\terr01_badlands.dtodx" NewFile="newfolder\terr01_badlands.dtodx" />
+	<Replace File="data\misc.vpp\terr01_oasis.dtodx" NewFile="newfolder\terr01_oasis.dtodx" />
+	<Replace File="data\misc.vpp\terr01_eos.dtodx" NewFile="newfolder\terr01_eos.dtodx" />
+	<Replace File="data\misc.vpp\terr01_manufacturing.dtodx" NewFile="newfolder\terr01_manufacturing.dtodx" />
+	<Replace File="data\misc.vpp\terr01_end_game.dtodx" NewFile="newfolder\terr01_end_game.dtodx" />
+	<Replace File="data\misc.vpp\player.xtbl" NewFile="newfolder\player.xtbl" />
+	<Replace File="data\misc.vpp\territories.xtbl" NewFile="newfolder\territories.xtbl" />
+	<Replace File="data\misc.vpp\reinforcement_profile.xtbl" NewFile="newfolder\reinforcement_profile.xtbl" />
+	<Replace File="data\misc.vpp\rfg_materials.xtbl" NewFile="newfolder\rfg_materials.xtbl" />
+	<Replace File="data\misc.vpp\items_3d.xtbl" NewFile="newfolder\items_3d.xtbl" />
+	<Replace File="data\misc.vpp\decal_info.xtbl" NewFile="newfolder\decal_info.xtbl" />
+	<Replace File="data\misc.vpp\gameplay_properties.xtbl" NewFile="newfolder\gameplay_properties.xtbl" />
+	<Replace File="data\misc.vpp\startup_video_sequence.xtbl" NewFile="newfolder\startup_video_sequence.xtbl" />
+	<Replace File="data\misc.vpp\rfg_stress_controls.xtbl" NewFile="newfolder\rfg_stress_controls.xtbl" />
+	<Replace File="data\misc.vpp\vehicles.xtbl" NewFile="newfolder\vehicles.xtbl" />
+	<Replace File="data\misc.vpp\melee.xtbl" NewFile="newfolder\melee.xtbl" />
+	<Replace File="data\misc.vpp\explosions.xtbl" NewFile="newfolder\explosions.xtbl" />
+	<Replace File="data\misc.vpp\difficulty.xtbl" NewFile="newfolder\difficulty.xtbl" />
+	<Replace File="data\misc.vpp\effect_heartbeat.xtbl" NewFile="newfolder\effect_heartbeat.xtbl" />
+	<Replace File="data\misc.vpp\ambient_spawn_info.xtbl" NewFile="newfolder\ambient_spawn_info.xtbl" />
+	<Replace File="data\misc.vpp\lod_properties.xtbl" NewFile="newfolder\lod_properties.xtbl" />
+	<Replace File="data\misc.vpp\aim_drift.xtbl" NewFile="newfolder\aim_drift.xtbl" />
+	<Replace File="data\misc.vpp\alert_level.xtbl" NewFile="newfolder\alert_level.xtbl" />
+	<Replace File="data\misc.vpp\upgrades.xtbl" NewFile="newfolder\upgrades.xtbl" />
+	<Replace File="data\misc.vpp\vehicle_defaults.xtbl" NewFile="newfolder\vehicle_defaults.xtbl" />
+	<Replace File="data\misc.vpp\spawn_parameters.xtbl" NewFile="newfolder\spawn_parameters.xtbl" />
+	<Replace File="data\misc.vpp\guerrilla_reinforcement.xtbl" NewFile="newfolder\guerrilla_reinforcement.xtbl" />
+    <Edit File="data\misc.vpp\character.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
 	    <Character>
 	    	<Name>rfg_PC</Name>
 	    	<max_speed>10</max_speed>
 	    	</Character>    
     </Edit>
-	 <Edit File="build\pc\cache\misc.vpp\camera.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
+	 <Edit File="data\misc.vpp\camera.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
 	    <camera_view>
 			<Name>normal</Name>
 			<distance><USER_INPUT>CameraDistance</USER_INPUT></distance>
@@ -157,7 +157,7 @@
 				</_Editor>
 			</camera_view>   
     </Edit>
-	<Edit File="build\pc\cache\misc.vpp\squad_progression.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
+	<Edit File="data\misc.vpp\squad_progression.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name">
 	    <squad_progression>
 			<Name>Guerrilla</Name>
 			<squad_level_1 LIST_ACTION="REPLACE">
@@ -195,7 +195,7 @@
 				</squad_level_2>
 			</squad_progression>   
     </Edit>
-	<Edit File="build\pc\cache\misc.vpp\tweak_table.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
+	<Edit File="data\misc.vpp\tweak_table.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
 		<Tweak_Table_Entry>
 			<Name>Ai_remote_charge_panic_chance</Name>
 			<Value>100</Value>
@@ -505,7 +505,7 @@
 				</_Editor>
 			</Tweak_Table_Entry>
     </Edit>
-    <Edit File="build\pc\cache\misc.vpp\weapons.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
+    <Edit File="data\misc.vpp\weapons.xtbl" LIST_ACTION="COMBINE_BY_FIELD:Name,_Editor\Category">
 		<Weapon>
 		  	<Name>ab_rpg</Name>
 		  	<Trigger_Type>single</Trigger_Type>
@@ -2251,7 +2251,7 @@
 			<Ragdoll_Chance>100.0</Ragdoll_Chance>
 	  </Weapon>
     </Edit>
-    <Edit File="build\pc\cache\misc.vpp\camera_shake.xtbl" LIST_ACTION="REPLACE">
+    <Edit File="data\misc.vpp\camera_shake.xtbl" LIST_ACTION="REPLACE">
     </Edit>
   </Changes>
 </Mod>
