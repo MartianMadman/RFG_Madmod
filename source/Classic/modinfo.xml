@@ -654,7 +654,7 @@
 		  	<_Editor>
 		  		<Category>Entries:Turrets</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Overheat_Percent_Per_Shot>0.0</Overheat_Percent_Per_Shot>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -679,7 +679,7 @@
 		  	<_Editor>
 		  		<Category>Entries:Turrets</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Overheat_Percent_Per_Shot>0.0</Overheat_Percent_Per_Shot>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -704,7 +704,7 @@
 		  	<_Editor>
 		  		<Category>Entries:Turrets</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Overheat_Percent_Per_Shot>0.0</Overheat_Percent_Per_Shot>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -729,7 +729,7 @@
 		  	<_Editor>
 		  		<Category>Entries:Turrets</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Overheat_Percent_Per_Shot>0.0</Overheat_Percent_Per_Shot>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -754,7 +754,7 @@
 		  	<_Editor>
 		  		<Category>Entries:Turrets</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Overheat_Percent_Per_Shot>0.0</Overheat_Percent_Per_Shot>
 		  	<Ammo_Box_Restock>999</Ammo_Box_Restock>
         	<Player_Move_Speed>1.0</Player_Move_Speed>
@@ -776,7 +776,7 @@
 		  	<_Editor>
 		  		<Category>Entries:Turrets</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Overheat_Percent_Per_Shot>0.0</Overheat_Percent_Per_Shot>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -805,7 +805,7 @@
 		  	<Ammo_Box_Restock>999</Ammo_Box_Restock>
 		  	<reticule_name>ui_hud_reti_sniperrifle</reticule_name>
 		  	<Shots_Per_Round>1</Shots_Per_Round>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
         	<Player_Move_Speed>1.0</Player_Move_Speed>
 			<Ragdoll_Chance>100.0</Ragdoll_Chance>
 	  </Weapon>
@@ -887,7 +887,7 @@
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Recoil_Kick>0</Recoil_Kick>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -914,7 +914,7 @@
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Recoil_Kick>0</Recoil_Kick>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -1070,7 +1070,7 @@
 		  	<_Editor>
 		  		<Category>Entries:Marauder</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Fire_Cone_Angle>4.0</Fire_Cone_Angle>
 		  	<Shots_Per_Round>8</Shots_Per_Round>
 		  	<Recoil_Kick>0</Recoil_Kick>
@@ -1135,7 +1135,7 @@
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Recoil_Kick>0</Recoil_Kick>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -1164,7 +1164,7 @@
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Recoil_Kick>0</Recoil_Kick>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
 		  	<Spread_Fine_Aim_Max>1.0</Spread_Fine_Aim_Max>
@@ -1221,7 +1221,7 @@
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Recoil_Kick>0</Recoil_Kick>
 		  	<Reload_Delay>0</Reload_Delay>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
@@ -1249,7 +1249,7 @@
 		  	<_Editor>
 		  		<Category>Entries:EDF</Category>
 		  	</_Editor>
-		  	<Ragdoll_Force_Shoot>0.0</Ragdoll_Force_Shoot>
+		  	<Ragdoll_Force_Shoot>1.0</Ragdoll_Force_Shoot>
 		  	<Recoil_Kick>0</Recoil_Kick>
 		  	<Reload_Delay>0</Reload_Delay>
 		  	<Spread_Fine_Aim_Min>0.0</Spread_Fine_Aim_Min>
