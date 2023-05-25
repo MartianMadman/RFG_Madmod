@@ -6,7 +6,7 @@ Madmod is a large overhaul mod that aims to make the game a much better experien
 -Npcs on the same team can not damage each other. Prevents horde’s from accidentally killing their own people during combat. Players can still kill npcs.
 -Major improvements to the way explosions are handled. Explosions will blast away any structure with ease including those pesky steel beams.
 -Tweaks to alert_level.xtbl. To lose alert level either hide for a minute or drive far away from the crime scene.
--Removed bullet push force on ragdolls to add more variety to the ways they fall down after death.
+(Reverted)-Removed bullet push force on ragdolls to add more variety to the ways they fall down after death.
 -Increased the max number of simultaneous projectiles that can be in the world at once to 127.
 -Increased distance at which the game will convert civilians to guerrilla members.
 -Increased the cost of upgrades to compensate for the increase in spawned salvage.
@@ -114,6 +114,7 @@ Fully play tested sectors Parker, Dust, Badlands, Oasis, and the Freefire zone.
 -Restore player sequential damage factor.
 -Increase gauss rifle ragdoll push force.
 -Increase EDF control in Oasis by 40.
+-Re-add ragdoll bullet push force.
 -Improve more explosion physics.
 -Make ammo boxes invulnerable.
 -Optimize lod_properties.xtbl.
